@@ -1,6 +1,6 @@
-*** Code Book
+# Code Book
 
-** Labeling
+## Labeling
 The data set has been labeled with appropriately with the following transformations:
 
 (1) "Acc" -> "Acceleration"
@@ -18,5 +18,5 @@ The data set has been labeled with appropriately with the following transformati
 (7) "-std()" -> "SD"
 
 
-** Data transformation
+## Data transformation
 The dity dataset includes average values of each variable for each activity and each subject.
